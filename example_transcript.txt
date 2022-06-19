@@ -1,0 +1,919 @@
+0:0:0.0 --> 0:0:3.290
+Erald Keshi
+So here we go. Welcome to our tech Arctic Architecture Council.
+0:0:3.990 --> 0:0:6.0
+Erald Keshi
+And first one in June this year.
+0:0:6.680 --> 0:0:9.930
+Erald Keshi
+And it's been a month since we had the last one, but just to reiterate.
+0:0:10.670 --> 0:0:37.30
+Erald Keshi
+We didn't review of the SO  assessment needed by Steve Esposito. Steve Esposito went to portfolio council afterwards to present it and get whitelisting. We got that from Denmark and Finland during the portfolio Council meeting, but Sweden and Norway had to go back to to secure that. But it came rather quickly. So today we have full whitelisting log, SO from Portfolio Council as well, and the implementation is processing.
+0:0:39.460 --> 0:0:39.850
+Erald Keshi
+Today.
+0:0:40.630 --> 0:0:45.260
+Erald Keshi
+Good. Justin, adoption platform, that's a recommendation also led by Steve Esposito.
+0:0:47.670 --> 0:0:52.820
+Erald Keshi
+So basically Steve Esposito, I think the stage is yours for a presentation and the discussion.
+0:0:54.780 --> 0:1:1.710
+Steve Esposito
+Yep, I have also invited earlier, but he notified that he'll be a few minutes late due to some.
+0:1:3.180 --> 0:1:5.510
+Steve Esposito
+Some errands that he has to run.
+0:1:6.670 --> 0:1:8.350
+Steve Esposito
+Alright, let me share.
+0:1:9.660 --> 0:1:11.910
+Steve Esposito
+Let me share my screen.
+0:1:24.790 --> 0:1:26.410
+Steve Esposito
+Let me know when you can see it.
+0:1:29.850 --> 0:1:30.130
+Erald Keshi
+Yep.
+0:1:31.630 --> 0:1:31.970
+PERSON C
+Yep.
+0:1:32.130 --> 0:1:32.480
+Steve Esposito
+OK.
+0:1:34.80 --> 0:1:35.770
+Steve Esposito
+Ohh really is also here. Hi.
+0:1:38.850 --> 0:1:45.240
+Steve Esposito
+OK, good. So today we're talking about the customer digital adoption platform.
+0:1:46.700 --> 0:1:47.190
+Steve Esposito
+Umm.
+0:1:48.320 --> 0:1:49.130
+Steve Esposito
+First of all.
+0:1:50.0 --> 0:1:58.380
+Steve Esposito
+I'd like to take a step back from the main topic, but to reiterate that we are surrounded by software.
+0:1:59.520 --> 0:2:5.890
+Steve Esposito
+Uh, it is everywhere we go. It is present in any kind of devices nowadays, starting from.
+0:2:6.640 --> 0:2:17.370
+Steve Esposito
+Transportation like planes, cars, uh space shuttles, you know, ending with kitchen appliances, it's everywhere and it's connected and.
+0:2:18.80 --> 0:2:24.460
+Steve Esposito
+It's getting more and more involved with with us humans and we interact.
+0:2:25.350 --> 0:2:28.670
+Steve Esposito
+With this offer everyday and the main.
+0:2:30.720 --> 0:2:49.480
+Steve Esposito
+The main the main thing is how the the quality of interaction, so whether that's efficient, how we interact it, can we adopt it, the software and the solution to our lives or can or we cannot, and that determines whether it, the product itself is good or not.
+0:2:50.680 --> 0:2:53.270
+Steve Esposito
+Whether that's suitable for us and.
+0:2:54.670 --> 0:3:1.380
+Steve Esposito
+That leads us to the term digital adoption, what it is and basically that's.
+0:3:2.270 --> 0:3:3.100
+Steve Esposito
+That is.
+0:3:4.720 --> 0:3:18.200
+Steve Esposito
+That is a way how to adopt any given resource you are presented with and make use of that to understand it and to use it to its best capability to serve your purpose.
+0:3:19.720 --> 0:3:33.110
+Steve Esposito
+It's a very long description, but the shorter one would be learning how to use anything you face and why digital. Because we are talking about software. Therefore that's digital.
+0:3:34.400 --> 0:3:38.320
+Steve Esposito
+So what articles and objectives of digital adoption?
+0:3:39.880 --> 0:3:47.450
+Steve Esposito
+And it's very simple. I I'm fairly certain and everyone of us have seen it. So it's the.
+0:3:48.520 --> 0:3:51.820
+Steve Esposito
+Tool tips, announcements, walkthroughs.
+0:3:53.260 --> 0:3:57.80
+Steve Esposito
+Any kind of self service functionality guidance through.
+0:3:57.230 --> 0:4:0.100
+Steve Esposito
+Ohm some features and whatnot.
+0:4:2.0 --> 0:4:4.200
+Steve Esposito
+And I know it takes for the back end users.
+0:4:5.30 --> 0:4:5.580
+Steve Esposito
+Umm.
+0:4:7.140 --> 0:4:37.230
+Steve Esposito
+So basically, I'm sure you all have seen when you install a new app on your phone for example, there's a short guide on how to use it, or when you subscribe to a new service and a web, you get this short walkthrough with highlighting the major key features. That's basically is the adoption helper. What we are talking about today. And of course there comes many benefits with such platforms or such tools or.
+0:4:37.550 --> 0:5:7.200
+Steve Esposito
+Augmenting augmentation of the existing tools we have or or customer services. Obviously we increase the efficiency of customer onboarding and therefore that increases the product or service usage. And when people are using the things we offer more, they are obviously spend more money which is good for us and they they can resolve their the challenges they faced themselves.
+0:5:7.700 --> 0:5:33.70
+Steve Esposito
+And therefore reducing the the the turn and the overhead work on the back end resources like our stuff that has to go through requests and tickets and whatnot and also it helps us to launch new features faster to the market, we can be sure that something new we launch, we'll reach the customers fairly quickly because they will know about it.
+0:5:34.780 --> 0:5:40.330
+Steve Esposito
+And So what would be the owners of such such platforms? Such tool?
+0:5:40.950 --> 0:5:51.110
+Steve Esposito
+Umm, you know Tia that would be 2 main groups that would be ecommerce and last cycle management and there are a few applications that go under that.
+0:5:51.840 --> 0:6:18.630
+Steve Esposito
+Umm and initial scope we have looked at Ishop cloud Portal which is ecommerce and asset management in my atea as a life cycle management applications and they will use pretty much the same thing. And what I need to point out that owners are responsible to maintain the content of the.
+0:6:19.10 --> 0:6:30.810
+Steve Esposito
+Uh update guides of the pop ups and whatnot in their own application, so it's it's one single tool, but it's owned and managed by several groups, and those groups are.
+0:6:32.270 --> 0:6:38.340
+Steve Esposito
+Have the full control and full ownership of anything that they put out to customers.
+0:6:41.900 --> 0:6:48.570
+Steve Esposito
+Why we need it? Well, first of all, we don't have it. That's that would be #1 obvious.
+0:6:49.830 --> 0:6:52.300
+Steve Esposito
+Obvious answer, but again.
+0:6:53.10 --> 0:7:6.410
+Steve Esposito
+The market and the digital option solutions is growing rapidly and companies are investing heavily to make sure that the products and services are.
+0:7:7.910 --> 0:7:31.250
+Steve Esposito
+Are are usable and if atea wants to be ahead of the curve and be market leader, we need to know what customers want because their needs and and wants they they change constantly in everyday basis and we want our customers to return. We want to keep in touch with our customers rather than being a one time transaction when they purchase something and leave.
+0:7:32.30 --> 0:7:47.780
+Steve Esposito
+So we want to make our services attractive and interactive, so the the people feel like they are interacting with the services we provide and therefore are willing to use them and therefore bring more money for us.
+0:7:48.710 --> 0:7:50.380
+Steve Esposito
+Uh, beginning revenue and.
+0:7:51.720 --> 0:7:56.890
+Steve Esposito
+So we had, look, we had a look at number of tools with at least was very long because.
+0:7:58.110 --> 0:8:0.640
+Steve Esposito
+The market is ever growing and.
+0:8:1.370 --> 0:8:16.400
+Steve Esposito
+Actually, since we started looking into those solutions, uh, the market player number has increased significantly, but we had several demos. We had 6 demos with vendors and from those six we shortlisted 3.
+0:8:17.180 --> 0:8:46.370
+Steve Esposito
+Uh, those three are PRODUCT A PRODUCT B and PRODUCT C, so shortly about all of them. PRODUCT A is one of the major players in Europe. It's it's an enterprise enterprise grade platform with very, very good usability. Anyone can create a guide. It's very flexible, very adoptable and within the package they also include the customer journey technician. So it means there's a dedicated person.
+0:8:46.630 --> 0:8:48.50
+Steve Esposito
+That helps us to build.
+0:8:48.750 --> 0:9:7.240
+Steve Esposito
+Anything we want and to adopt the product for our needs to our branding, to our content so that it's maximized the full potential of their platform. The second one is the PRODUCT B, it's a growing company, it's an upcoming player in the market.
+0:9:8.320 --> 0:9:9.430
+Steve Esposito
+Also based off Europe.
+0:9:10.90 --> 0:9:10.790
+Steve Esposito
+Umm.
+0:9:11.560 --> 0:9:25.690
+Steve Esposito
+It is also very flexible, it's it's all it is very robust. So while it might lack some UX features, it it is very technically capable, but it's not that user friendly.
+0:9:26.90 --> 0:9:29.460
+Steve Esposito
+Umm. However, it's it's very competitively priced.
+0:9:30.450 --> 0:9:45.120
+Steve Esposito
+And the third one is PRODUCT C, which is it's an enterprise solution pretty much with all the bells and whistles that you would ever want and need in a solution. It's highly customizable and yeah.
+0:9:46.40 --> 0:9:53.50
+Steve Esposito
+Also very user friendly, but that comes with the price and the price is we can see the price difference is here.
+0:9:54.250 --> 0:9:54.860
+Steve Esposito
+Umm.
+0:9:56.140 --> 0:10:1.290
+Steve Esposito
+So yeah, I won't go too much on those. So what is our recommendation?
+0:10:2.820 --> 0:10:23.400
+Steve Esposito
+Most of the tools, if not all of them meet the the all basic business requirements. All the requirements we have but they, as they say, the devil is always in the detail and only in demos we could we could really see the true nature of those platforms and from all of them user lane is the.
+0:10:24.260 --> 0:10:26.710
+Steve Esposito
+Is the best solution in our opinion.
+0:10:27.580 --> 0:10:28.70
+Steve Esposito
+Umm.
+0:10:28.990 --> 0:10:34.600
+Steve Esposito
+Because it's it's enterprise great, but it's not priced as enterprise solution.
+0:10:35.940 --> 0:10:36.360
+PERSON D
+Honey.
+0:10:35.560 --> 0:10:40.340
+Steve Esposito
+It's very capable, it's very user friendly and it has.
+0:10:41.400 --> 0:10:49.0
+Steve Esposito
+By far the best multi language support, which is also pretty important for us as we operate in different markets.
+0:10:49.930 --> 0:11:12.0
+Steve Esposito
+And the second one would be would be PRODUCT B because it's very, very, very good value, it's very robust and it's very straightforward. And the third one is opt, if it's really good, it's it's truly very good solution, but it's it's it's pretty pricey one. So therefore it landed on the 3rd.
+0:11:12.760 --> 0:11:14.740
+Steve Esposito
+Uh, third place of our list.
+0:11:15.700 --> 0:11:23.200
+Steve Espositox
+And that's pretty much the IT there's also appendix in the presentation with the data about.
+0:11:26.660 --> 0:11:36.710
+Steve Esposito
+Deep market about case studies and metrics in our own applications, but I won't go into those at the moment.
+0:11:38.450 --> 0:11:38.900
+Steve Esposito
+We can.
+0:11:39.660 --> 0:11:41.570
+Steve Esposito
+I should have presentation afterwards, alright?
+0:11:43.700 --> 0:11:44.180
+Erald Keshi
+Talking.
+0:11:45.800 --> 0:11:50.110
+PERSON E
+So we had the similar product called PRODUCT D.
+0:11:50.780 --> 0:11:51.130
+Steve Esposito
+Yes.
+0:11:51.790 --> 0:11:56.840
+PERSON E
+It would be good if you at least mention it in your presentation why you didn't consider it.
+0:11:57.60 --> 0:11:57.970
+Steve Esposito
+Ah yes.
+0:11:57.660 --> 0:11:58.710
+PERSON E
+For for this part.
+0:11:59.500 --> 0:12:1.500
+Steve Esposito
+Yes, so uh.
+0:12:2.390 --> 0:12:7.860
+Steve Esposito
+We eliminated that solution because of the pricing model they have. They are.
+0:12:8.20 --> 0:12:15.650
+Steve Esposito
+Umm, focusing on user numbers and with the customer facing user numbers we have.
+0:12:16.340 --> 0:12:18.370
+Steve Esposito
+Uh, the price would be just unbearable.
+0:12:19.780 --> 0:12:20.570
+Steve Esposito
+Whether as.
+0:12:22.70 --> 0:12:28.760
+Steve Esposito
+For example PRODUCT A, they have all included package where you pay for the application and support.
+0:12:29.450 --> 0:12:31.540
+Steve Esposito
+But they don't care how many users you have.
+0:12:32.470 --> 0:12:37.50
+Steve Esposito
+So therefore it's, yeah, it's more reasonable to your tasks solution.
+0:12:38.280 --> 0:12:40.900
+PERSON E
+But in the presentation it would be good if you.
+0:12:40.920 --> 0:12:42.830
+Steve Esposito
+Yes, yes. Yeah, that's true.
+0:12:41.600 --> 0:12:49.830
+PERSON E
+Because it was quite recently, we decided on the on that tool. So just mention it in your presentation. That would be fantastic.
+0:12:50.420 --> 0:12:52.190
+Steve Esposito
+Yeah. Alright. Thank you. Yeah.
+0:12:54.640 --> 0:13:4.90
+Erald Keshi
+I have a question on the pricing. I know PRODUCT C is very pricey, but it sounds like you are also really impressed by what it offers us. What is would there be anything that actually?
+0:13:5.250 --> 0:13:19.680
+Erald Keshi
+Would allow us to pay that price in in other benefits. Is the maintenance of how you build up the the UX part is that easier to do an action than it is in PRODUCT A and could that make a make a difference on the price evaluation for us?
+0:13:20.200 --> 0:13:28.290
+Steve Esposito
+No, I don't think so. But judging by the demos we had, they are making neck and it didn't make sense to pay double the price.
+0:13:29.800 --> 0:13:34.820
+Erald Keshi
+And has security been involved? Is there anything we should have security involved in in this?
+0:13:35.950 --> 0:13:37.410
+Erald Keshi
+Are we storing data anywhere?
+0:13:38.370 --> 0:13:38.630
+Steve Esposito
+You know.
+0:13:45.970 --> 0:13:47.670
+Erald Keshi
+OK. Other questions or comments?
+0:13:49.470 --> 0:13:50.40
+PERSON F
+Yep.
+0:13:48.270 --> 0:14:17.730
+Sergi M. Rodriguez
+Yeah, I have some first stuff I I think we need to include the PRODUCT D as you say, because someone will ask later on a year from now, you know, what the heck do you do not consider it. So it needs to be in here. That's kind of evidence for it. The other part I have is that as we go to portfolio Council, we always ask for position it into the North Star architecture and we should have it here as part of the ITECH as well. So we can reuse that later on. But that's for the future, right. But we need to have it in here because it will be reused as soon as you go to portfolio Council.
+0:14:19.420 --> 0:14:37.230
+Sergi M. Rodriguez
+3rd Part I have is you know what kind of tool is this because I have a little bit of an issue to position this. To me it's the tools and methods application or tool set. You know something that you use to enhance other tools. It's not a tool that that you provide to the end user directly.
+0:14:38.200 --> 0:14:41.870
+Sergi M. Rodriguez
+So it's it's something that that I enrich other solutions.
+0:14:42.830 --> 0:14:49.110
+Sergi M. Rodriguez
+And thereby I believe it's it's part of the enabling platforms and so on and not owned by an application itself.
+0:14:51.220 --> 0:15:1.890
+Sergi M. Rodriguez
+But is there another view of this? Because this is, you know, I see that it's can as well support dynamics in the future and so on, right? If we want to implement that, it's a, it's a great platform to do that.
+0:15:5.570 --> 0:15:7.210
+Steve Esposito
+Yes, I guess, yeah.
+0:15:5.800 --> 0:15:12.490
+PERSON E
+I would, I would follow up and I want and have it. Could we used it for PRODUCT E instead of the PRODUCT D. Now could we have one too?
+0:15:14.180 --> 0:15:14.870
+Steve Esposito
+We could have, yeah.
+0:15:16.200 --> 0:15:30.230
+PERSON H
+But I think the major selling point of as I believe PRODUCT D and that's please correct me if I'm wrong, was that PRODUCT E the water of the main requirements was for it to integrate with the classical interface.
+0:15:31.210 --> 0:15:32.20
+PERSON E
+That was both.
+0:15:31.440 --> 0:15:32.450
+PERSON H
+But only if you are.
+0:15:34.670 --> 0:15:35.150
+PERSON E
+Uh.
+0:15:36.120 --> 0:15:37.170
+PERSON I
+True, true.
+0:15:38.50 --> 0:15:38.490
+PERSON I
+Sorry.
+0:15:38.800 --> 0:15:39.90
+PERSON E
+Yeah.
+0:15:37.820 --> 0:15:41.470
+PERSON H
+So so I I I I don't believe PRODUCT A is capable of doing that.
+0:15:42.840 --> 0:15:48.800
+Sergi M. Rodriguez
+But it needs to be checked, right? Because it's it is a possibility there as well. If it has not been put in play yet N PRODUCT D.
+0:15:49.890 --> 0:15:52.230
+Sergi M. Rodriguez
+We should at least raise it that this is a possibility.
+0:15:53.140 --> 0:16:5.840
+Sergi M. Rodriguez
+I know that all guests not on the call, but you know this is this is a very wide platform, it can, it can provide a lot of value to not only the selected applications that Elias on to be sunbrella but a lot of the other possibilities as well, right.
+0:16:7.540 --> 0:16:7.780
+Steve Esposito
+Yes.
+0:16:8.710 --> 0:16:21.150
+Steve Esposito
+Well, initially it was the main requirements that were discussed were were for customer facing applications and yeah. But of course we can expand that because they also of course offer.
+0:16:21.810 --> 0:16:22.330
+Steve Esposito
+Umm.
+0:16:23.270 --> 0:16:31.230
+Steve Esposito
+Offer any kind of internal patient support as well, including SAT which is mentioned in their site as a customer. So.
+0:16:39.860 --> 0:16:40.30
+Steve Esposito
+Yeah.
+0:16:31.840 --> 0:16:43.690
+Sergi M. Rodriguez
+Because even if the other doesn't have a requirement today, it would be bad if we bring yet another doc tool just because dynamics needs once and PRODUCT E needs one, and then catalyst one believes that they need something and we're being in a fourth one.
+0:16:45.610 --> 0:16:46.10
+Steve Esposito
+Yeah.
+0:16:45.430 --> 0:16:52.200
+Sergi M. Rodriguez
+So it would be nice to have one, you know, this kind covers everything. If you want to go away from this one. Sure, you can do that, but you need a good reason for it.
+0:16:53.800 --> 0:16:54.110
+Steve Esposito
+OK.
+0:16:56.880 --> 0:16:57.180
+Steve Esposito
+Right.
+0:16:59.590 --> 0:17:0.0
+Steve Esposito
+Yes.
+0:16:57.770 --> 0:17:0.160
+PERSON F
+I raised my hand, maybe.
+0:17:0.350 --> 0:17:0.600
+PERSON F
+OK.
+0:16:59.460 --> 0:17:0.920
+Erald Keshi
+Yes, your turn.
+0:17:5.100 --> 0:17:16.90
+PERSON F
+I missed the store to the meeting. Sorry for that. So I don't know what is this service is doing. I don't know if it's in service or it's an on Prem solution but doesn't it process any of atea data?
+0:17:18.980 --> 0:17:25.640
+Steve Esposito
+Uh, not really. It's a it's a sad solution. It's basically.
+0:17:26.460 --> 0:17:36.20
+Steve Esposito
+Courtney, but that is added to the web page which invokes a JavaScript library which is like an overlay of highlighting elements in a page.
+0:17:38.240 --> 0:17:38.870
+PERSON F
+OK.
+0:17:37.70 --> 0:17:39.640
+Steve Esposito
+Umm, it doesn't store any kind of user data.
+0:17:40.250 --> 0:17:40.800
+PERSON F
+OK.
+0:17:40.250 --> 0:17:43.460
+PERSON E
+You're you remember Clipper. He's like you're that old.
+0:17:43.910 --> 0:17:44.560
+PERSON F
+Yeah.
+0:17:44.600 --> 0:17:48.270
+PERSON E
+Yeah. So this is a Clipper for the the the next generation.
+0:17:47.660 --> 0:17:49.230
+PERSON F
+OK, OK.
+0:17:48.950 --> 0:17:54.210
+PERSON D
+It's like is this the same one we've had in in Montrose, the little guy in the down left corner?
+0:17:54.770 --> 0:17:55.740
+PERSON F
+Yeah. OK.
+0:17:55.580 --> 0:17:57.190
+PERSON D
+That's the that's PRODUCT A.
+0:17:58.950 --> 0:18:6.890
+Sergi M. Rodriguez
+But but there isn't analytics part a shared as part of PRODUCT A. What kind of analytics is that and what kind of data is it based on?
+0:18:7.930 --> 0:18:24.820
+Steve Esposito
+It counts like how many clicks there wasn't a particular notification that we publish. Or let's say there's a walkthrough guide and it just monitors how many users have completed the guide on which that the majority have dropped and so forth.
+0:18:25.620 --> 0:18:26.630
+PERSON F
+OK, so let's.
+0:18:25.730 --> 0:18:28.600
+Steve Esposito
+Without indicating any kind of user identity.
+0:18:32.180 --> 0:18:33.900
+PERSON F
+OK, then I rest my case.
+0:18:38.660 --> 0:18:39.240
+Erald Keshi
+And the other.
+0:18:38.420 --> 0:19:3.620
+Sergi M. Rodriguez
+So I I have more. Of course I have more when it comes to maintaining this one. I understand that you know my atea and so on will use this right and actually point out there they will take care of of using it. They will learn how about it and so on do we need to add more people or more effort to the teams that are currently in place or you know how how do they get this kind of training and this kind of new skill.
+0:19:6.390 --> 0:19:11.690
+Steve Esposito
+40 myatea part we had meetings with Daniel and.
+0:19:12.480 --> 0:19:24.640
+Steve Esposito
+Hello I think ohh and they are taking over that they have the capabilities and resources to do that for each shop. I think it was a kind of remember who it was but basically.
+0:19:25.820 --> 0:19:26.50
+Steve Esposito
+OK.
+0:19:23.980 --> 0:19:26.690
+Sergi M. Rodriguez
+I think it is is is ready to jump in.
+0:19:27.40 --> 0:19:29.90
+Steve Esposito
+Yes, that would be better, I think.
+0:19:30.830 --> 0:19:42.690
+PERSON J
+It is of course true that that we have agreed. Let me start a little bit different. Keep in mind this is for customer oriented systems. That is how the demand started all the way back in March 21.
+0:19:43.950 --> 0:19:48.280
+PERSON J
+For my atea, for ACP, for E shop and Atea asset management.
+0:19:49.80 --> 0:19:56.330
+PERSON J
+And all four of them being customer oriented, that's also the pricing scheme will PRODUCT E. Now as we have established.
+0:19:58.440 --> 0:20:7.40
+PERSON J
+We have also looked at each other and work with each other throughout this process with the help of robots and Alex that we will.
+0:20:8.0 --> 0:20:13.590
+PERSON J
+Find the needed time and resources to both enable and work with this focused.
+0:20:14.810 --> 0:20:41.160
+PERSON J
+So we can utilize it to some extent. We will free up a little bit of time in regards to support as we have now in regards to giving customers information about new features and eShop, new features and ACP or what it is and guiding customers, onboarding customers into the different systems. So a little bit of time we'll be freed up there. That is a clear expectation.
+0:20:42.170 --> 0:21:11.950
+PERSON J
+And in the little bit longer run, we have a very small team sitting in the chat service center and Riga right now that is doing on a regular basis AC some ACP work that will go away actually on June 13th when something in ACP related to ACP will be closed down. So the thinking and the plan is also to utilize that little team for this and build the needed expertise.
+0:21:12.400 --> 0:21:21.990
+PERSON J
+On on it. That's the work right now. We need to get experience. Atea does customer Orient that not have any solution of the kind available today?
+0:21:23.550 --> 0:21:37.160
+PERSON J
+So we also need to figure out how to work with it and also see how customers react on it going forward. If this is also something to be used in internal systems, obviously make sense.
+0:21:37.650 --> 0:21:44.160
+PERSON J
+If it's as good and powerful as Sara PRODUCT E, I don't know.
+0:21:45.240 --> 0:21:52.900
+PERSON J
+As Steve Esposito puts it, we looked at different solution. He, Steve Esposito did the initial screening of the of the market.
+0:21:54.180 --> 0:22:26.790
+PERSON J
+Put forward some suggestion, had demos talked about it, looked at it and and that is how PRODUCT A came out to be. The recommended solution from our side, from the business side. That is how we look at it because it also looked as it looks it is rather easy to go to and get going with it. On top of that, PRODUCT A has offered quite a rather rather big project onboarding plan fast and we will find the time to get it done.
+0:22:26.890 --> 0:22:38.930
+PERSON J
+In the different portals, not immediately from Monday morning, if obviously it it takes a little bit of time, but we will do it throughout the summer and fall and get it enabled, yes.
+0:22:40.510 --> 0:22:44.10
+Sergi M. Rodriguez
+So if I summarize, that means that the existing team will be able to cover it.
+0:22:43.680 --> 0:22:44.130
+PERSON J
+Yes.
+0:22:44.870 --> 0:22:46.500
+PERSON J
+In all four solutions, yeah.
+0:22:46.860 --> 0:22:52.50
+Sergi M. Rodriguez
+Then I think we should put that in. So it's clear that there are no additional expectations.
+0:22:51.580 --> 0:22:59.170
+PERSON J
+Oh, that was that was data on one of the slides. If you go back a little bit, actually I think it was stated on slide.
+0:23:0.700 --> 0:23:1.530
+PERSON J
+Slide 6.
+0:23:2.520 --> 0:23:5.120
+PERSON J
+Ownership under the ownership slot. If you show that.
+0:23:6.570 --> 0:23:7.10
+PERSON J
+Robert.
+0:23:14.680 --> 0:23:15.380
+Steve Esposito
+As mentioned.
+0:23:16.200 --> 0:23:16.910
+Steve Esposito
+Just want to.
+0:23:15.520 --> 0:23:19.780
+Sergi M. Rodriguez
+I don't see anything around the getting you need it for increased budgets or not, but.
+0:23:24.610 --> 0:23:24.870
+Sergi M. Rodriguez
+Yeah.
+0:23:20.860 --> 0:23:28.200
+PERSON J
+Owners of the tap I also responsible for the resource implementation complementarians of the application costs associated with it, yes.
+0:23:31.780 --> 0:23:32.770
+Steve Esposito
+Yes it does.
+0:23:31.810 --> 0:23:32.900
+PERSON J
+Ohh that is correct.
+0:23:28.530 --> 0:23:34.970
+Sergi M. Rodriguez
+Yeah, but it doesn't say if we need to add resources or not. So let's just state that the existing team can take care of it.
+0:23:35.440 --> 0:23:35.750
+PERSON J
+Yeah.
+0:23:36.850 --> 0:23:37.300
+PERSON J
+Kind of.
+0:23:40.880 --> 0:23:47.610
+Sergi M. Rodriguez
+So there's no need to expand or anything like that from a runtime or anything like that, which is great. Just just the license that needs them to be put in place.
+0:23:49.280 --> 0:23:50.120
+Sergi M. Rodriguez
+But it's just.
+0:23:47.370 --> 0:23:50.510
+PERSON J
+Yeah, yeah. Being allowed to do use it.
+0:23:51.580 --> 0:23:51.800
+Sergi M. Rodriguez
+Right.
+0:23:52.640 --> 0:23:53.590
+PERSON J
+That is what we need.
+0:23:54.360 --> 0:23:57.250
+PERSON J
+And the money that is a portfolio Council.
+0:23:59.670 --> 0:24:5.890
+Sergi M. Rodriguez
+And and what if they portfolio Council views that is to you know, if they push you back to the less expensive number too?
+0:24:6.830 --> 0:24:7.780
+Sergi M. Rodriguez
+What will be the?
+0:24:8.450 --> 0:24:13.190
+Sergi M. Rodriguez
+Disadvantage of going with that one? Do we fail in some areas or what will happen?
+0:24:18.420 --> 0:24:18.760
+Steve Esposito
+On.
+0:24:19.610 --> 0:24:19.880
+Steve Esposito
+Yeah.
+0:24:18.180 --> 0:24:24.540
+Sergi M. Rodriguez
+How's it if I put like this? How's #2 even being checked from a security and so on perspective, you know it's.
+0:24:25.200 --> 0:24:42.0
+Sergi M. Rodriguez
+We only have one option that we are putting forward, right? But I my question is just you know pure on financials, if they say the other one is so less expensive, we suggest you go with that one unless you see big issues with it and you don't have any big issues, there is a risk that they are pushing you back into that one.
+0:24:44.860 --> 0:25:3.250
+PERSON J
+I don't see immediately thinking back about the demos, the dialogues where we were involved, where I was involved. I don't see any big issues to going to number 2. I don't expect them just from a cost perspective because at the is my father most expensive one. I don't see any problems with inline.
+0:25:3.880 --> 0:25:8.870
+PERSON J
+The back end, all the the administration off it seems.
+0:25:10.190 --> 0:25:10.940
+PERSON J
+Easier.
+0:25:11.840 --> 0:25:27.470
+PERSON J
+To work with when we talk about PRODUCT A then it will PRODUCT B. But I don't see any functionality per se. We lose by going with for example PRODUCT B. No, I don't definitely I don't see that immediately.
+0:25:28.10 --> 0:25:29.350
+PERSON J
+Yeah, I would.
+0:25:31.480 --> 0:25:32.960
+PERSON J
+Yeah, the.
+0:25:34.370 --> 0:25:34.540
+PERSON J
+Yeah.
+0:25:35.610 --> 0:25:35.890
+PERSON J
+Yeah.
+0:25:27.550 --> 0:25:36.340
+Sergi M. Rodriguez
+But for help us then, then PRODUCT A is quicker to adopt and get in. So we will be more speed. I would say that would be the main advantage of getting used to Langdon.
+0:25:46.770 --> 0:25:47.20
+Sergi M. Rodriguez
+No.
+0:25:36.800 --> 0:25:49.630
+PERSON J
+Absolutely. That is what we that is why it ended up with user laid. Of course there are functionality differences that one solution has over the other. It's always like that.
+0:25:57.810 --> 0:25:58.110
+PERSON J
+No.
+0:25:58.840 --> 0:25:59.40
+PERSON J
+Yeah.
+0:25:50.20 --> 0:26:1.800
+Sergi M. Rodriguez
+I understand the The thing is that you have no big pros, sorry cons about any of them, right? All of them look good. One of the big cons with the third one, that is expensive, but nothing really differs between one and two.
+0:26:1.550 --> 0:26:32.880
+PERSON J
+No, no technical, per SE technical right things I have to think about again the back end. That is where PRODUCT A by the looks of it from what we've seen have been introduced to looks easier to handle and manage and work with than the others PRODUCT B which seems more like a less mature solution by that. And by that the administration office seems more technical, let's say it's this way and given the fact that it will be.
+0:26:33.660 --> 0:26:37.430
+PERSON J
+Not necessarily. Hot core technical people needing to work with this.
+0:26:38.620 --> 0:26:42.270
+PERSON J
+That that is PRODUCT A then easier to go to as it looks.
+0:26:43.490 --> 0:26:43.860
+Sergi M. Rodriguez
+OK.
+0:26:47.140 --> 0:26:57.350
+PERSON E
+Yes, for from the assessment, which one are the the would you consider being the best partner for us who will be like listen to our demands and our.
+0:26:58.640 --> 0:27:2.50
+PERSON E
+The time lines? Or would we just be another customer?
+0:27:3.30 --> 0:27:4.770
+PERSON E
+Of those, the the choices you have done.
+0:27:17.220 --> 0:27:17.720
+PERSON E
+Yeah.
+0:27:6.360 --> 0:27:27.190
+Steve Esposito
+PRODUCT A an empty because they are more focused on product, they are more flexible than the flexibility is built into the product that can adapt to customers more and they are willing to put out like a customer success engineer because with PRODUCT B they are very tight knit company and what you see is what you get.
+0:27:28.400 --> 0:27:29.40
+PERSON E
+Yeah. So.
+0:27:30.20 --> 0:27:31.150
+PERSON E
+Write that in the.
+0:27:32.110 --> 0:27:32.910
+PERSON E
+PDM.
+0:27:33.520 --> 0:27:33.770
+Sergi M. Rodriguez
+Umm.
+0:27:34.490 --> 0:27:34.710
+Steve Esposito
+Yeah.
+0:27:37.420 --> 0:27:37.730
+PERSON J
+Yeah.
+0:27:34.270 --> 0:27:40.370
+PERSON E
+The summaries because we're looking for a good partner, we really want to have the a partnership with the vendor.
+0:27:41.130 --> 0:27:58.420
+PERSON J
+What I from a business perspective real like with PRODUCT A, they actually when they prepared came to the demonstration meeting, there were very well prepared, they knew who we were atea that's a big plus. Trust me, one of the others didn't even know who we were. That didn't take the time to prepare properly.
+0:27:59.790 --> 0:28:23.750
+PERSON J
+PRODUCT A actually also forwarded a business opportunity for five atea if we want to sell PRODUCT A in our market, totally different discussion doesn't have anything to do. What we are looking at here, but they say, hey, if you are interested in selling PRODUCT A, we can give you this deal also on top of that. That shows me that are very interested they are.
+0:28:24.670 --> 0:28:39.750
+PERSON J
+Well, in front of the bus, so to speak, they see an opportunity with us. So not just another customer, but that dialogue needs to be taken somewhere completely different if we are to resell also that solution and now our market.
+0:28:41.140 --> 0:28:45.670
+PERSON J
+But that just shows me they think that step further ahead.
+0:28:51.940 --> 0:28:52.180
+PERSON J
+Yep.
+0:28:53.130 --> 0:28:54.0
+Erald Keshi
+Are there comments?
+0:28:56.870 --> 0:29:0.100
+Sergi M. Rodriguez
+We need to update the the ownership part.
+0:29:0.870 --> 0:29:3.20
+Sergi M. Rodriguez
+There can only be 1 owner at the end of it.
+0:29:4.50 --> 0:29:18.230
+Sergi M. Rodriguez
+And I need to have this more as an enabling. It's perfectly fine that this is all for ecommerce life cycle management and the stakeholders in here, but it is impossibility later on to also open up for others and we should make sure that that is understood.
+0:29:19.500 --> 0:29:21.40
+Erald Keshi
+And that could come faster actually.
+0:29:21.600 --> 0:29:43.450
+Sergi M. Rodriguez
+Yes, but I I think it's a great thing. You know, if he commerce and life cycle management needs it, then we should push this forward. They would be the first one out, but it also has added value that others can actually tap into this platform and do more. So if you have another eShop or another smart business solution, right, we have a ready to go dig to the adoption platform which is great.
+0:29:45.420 --> 0:29:59.820
+PERSON J
+As a on the we updated the slide deck for the Portfolio Council slightly. Also take notes here. The ADS ownership for this one in within a DS will be PERSON K.
+0:30:1.910 --> 0:30:2.220
+PERSON J
+Well.
+0:30:2.820 --> 0:30:3.50
+Erald Keshi
+Don't.
+0:30:1.460 --> 0:30:3.420
+Sergi M. Rodriguez
+Yeah, I know that that is in there today.
+0:30:6.320 --> 0:30:6.790
+Erald Keshi
+This is.
+0:30:9.90 --> 0:30:9.350
+Sergi M. Rodriguez
+OK.
+0:30:6.860 --> 0:30:10.960
+PERSON J
+With a slide deck for the Portfolio Council, so sorry for not.
+0:30:12.190 --> 0:30:12.720
+Erald Keshi
+Get away.
+0:30:12.230 --> 0:30:20.550
+PERSON J
+Yeah, forgetting to put that line in here, but to have a very clear ownership, PERSON K. And of course she has been part of that dialogue obviously also.
+0:30:22.410 --> 0:30:22.780
+Erald Keshi
+Cookies.
+0:30:22.860 --> 0:30:23.220
+Sergi M. Rodriguez
+Bigger.
+0:30:24.210 --> 0:30:24.680
+PERSON J
+Thank you.
+0:30:28.230 --> 0:30:37.30
+Sergi M. Rodriguez
+At very quick question, I know this is not for the ITAC yeah, but the the pricing that you have for the portfolio Council that covers all these four applications, right?
+0:30:37.220 --> 0:30:39.60
+Erald Keshi
+Some of the elbow sticking cookies.
+0:30:38.260 --> 0:30:47.650
+PERSON J
+Correct the pricing for the license is €99,000 from a year, not a month, a year for those four applications.
+0:30:48.840 --> 0:31:10.650
+PERSON J
+There is. I set up implementation for the setup implementation project for 19,000. That means the first year it's 100 and 18,000 as it was stated and going forward year over year it's 99,000 for those four applications, each additional license and that is the good thing here. The very good thing the cost is 36,000 a year.
+0:31:11.590 --> 0:31:33.610
+PERSON J
+No matter how many users and that was very important here. As Steve Esposito stated, we actually do not know how many users we have in ACP in my atea in eShop in AM. We know it now, but going forward we we we don't know so alone from the that.
+0:31:34.330 --> 0:31:59.700
+PERSON J
+Perspective. Having a system that is licensed per user by active user or just per user isn't does not work for atea. We of course from the pricing had already PERSON L having a good dialogue with him and let's say it's this way he got it down from 200 and €12,000 for the first year to the 100 and 18,000.
+0:32:2.130 --> 0:32:2.460
+Sergi M. Rodriguez
+Yeah.
+0:32:2.210 --> 0:32:6.850
+PERSON J
+And the yearly payment down from 144 to 99.
+0:32:7.890 --> 0:32:9.480
+PERSON J
+For those four applications.
+0:32:12.50 --> 0:32:12.420
+Sergi M. Rodriguez
+They're good.
+0:32:13.470 --> 0:32:15.280
+PERSON J
+So he has done his magic already.
+0:32:16.380 --> 0:32:17.460
+PERSON J
+If that's more.
+0:32:16.290 --> 0:32:17.560
+Sergi M. Rodriguez
+But let's see if we can do more.
+0:32:18.200 --> 0:32:29.850
+PERSON J
+If there's more to be done, if we come with ten additional applications instead of each one being 36,000, while that is his magic, then hopefully.
+0:32:29.460 --> 0:32:33.200
+Sergi M. Rodriguez
+Great, OK. But it covers initial scope, which is good.
+0:32:33.210 --> 0:32:33.630
+PERSON J
+Yes.
+0:32:33.870 --> 0:32:36.230
+Sergi M. Rodriguez
+Well, we should just clarify that as well, yeah.
+0:32:40.860 --> 0:32:41.230
+Sergi M. Rodriguez
+OK.
+0:32:42.610 --> 0:32:43.460
+PERSON J
+Happy thing else.
+0:32:43.10 --> 0:32:44.130
+Erald Keshi
+Any other questions?
+0:32:45.740 --> 0:32:56.180
+Erald Keshi
+If not, then I'll please ask anybody who has a solid reason of why PERSON J and Steve Esposito should not take this to portfolio Council on Thursday next week to speak up.
+0:32:58.270 --> 0:33:0.720
+PERSON J
+I'll keep quiet forever. It's like when you get married.
+0:33:1.540 --> 0:33:2.170
+Erald Keshi
+Exactly.
+0:33:2.890 --> 0:33:4.560
+Erald Keshi
+I was trying to get to that point earlier.
+0:33:5.430 --> 0:33:6.80
+PERSON J
+Sorry.
+0:33:17.180 --> 0:33:17.370
+PERSON J
+Yeah.
+0:33:9.710 --> 0:33:19.760
+Erald Keshi
+Doesn't seem to be the case, so we look forward to seeing that next Thursday in coverage Council and wish you the best of luck there. If you think we are hungry lions waiting to attack.
+0:33:20.940 --> 0:33:21.490
+Erald Keshi
+Just wait.
+0:33:26.200 --> 0:33:26.630
+Erald Keshi
+No, but.
+0:33:27.710 --> 0:33:28.10
+Erald Keshi
+Yep.
+0:33:24.910 --> 0:33:33.600
+PERSON J
+Good. Then I will jump out and you continue your meeting because I guess you don't need me anymore. And thank you for having me today. Have fun. Bye.
+0:33:33.870 --> 0:33:34.660
+Erald Keshi
+Thanks, PERSON J. See you.
+0:33:34.100 --> 0:33:35.210
+PERSON H
+Thank you. Bye.
+0:33:35.530 --> 0:33:35.870
+Steve Esposito
+All right.
+0:33:45.530 --> 0:33:47.300
+Erald Keshi
+So back to the agenda for today.
+0:33:50.560 --> 0:34:20.320
+Erald Keshi
+And next week we will have pre study from PERSON L is planned to be on the agenda for for Thursday next week and also postal address validation service assessment done by second. Those are the plans we have. Second is going to ITAC junior on Monday with this. So that could of course postpone it and I know PERSON L is also finalizing everything but this is the plan topics for next week's agenda. Also be aware that on June 23rd we don't have ITAC.
+0:34:20.430 --> 0:34:24.850
+Erald Keshi
+It's it's a national holiday in Latvia, so we would be very few people in in the meeting.
+0:34:26.10 --> 0:34:33.190
+Erald Keshi
+And that's for today is just an open mic session. Anybody who has anything to raise in the ITAC, you're free to do so now.
+0:34:35.270 --> 0:34:35.580
+Erald Keshi
+Yep.
+0:34:34.0 --> 0:34:56.670
+Sergi M. Rodriguez
+I have again going forward, I would like to see the North Star picture into the ITAC and just for information where we go to the portfolio Council, we also trying to highlight where we hit the must win battles or where we hit the strategies. You know the strategy 2024 if you can map it to that, it will make the session in portfolio Council so much easier.
+0:34:57.520 --> 0:35:6.420
+Sergi M. Rodriguez
+So if we if it's possible as further add in you know, otherwise it's business that needs to explain where it fits into be strategy. But we need to provide them with a North Star fit.
+0:35:7.70 --> 0:35:8.560
+Sergi M. Rodriguez
+Uh child them out.
+0:35:15.930 --> 0:35:16.370
+Erald Keshi
+Noted.
+0:35:20.380 --> 0:35:26.640
+Erald Keshi
+Nothing else. Thank you all for attending. Thanks for the good questions and the discussion. That's why we're here. See you next Thursday.
+0:35:27.900 --> 0:35:28.630
+Sergi M. Rodriguez
+Thank you.
+0:35:29.270 --> 0:35:29.530
+Erald Keshi
+Alright.
+0:35:28.790 --> 0:35:29.660
+Steve Esposito
+Thank you. Bye bye.
+
