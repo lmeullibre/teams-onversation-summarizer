@@ -6,7 +6,6 @@ import nltk
 from keybert import KeyBERT
 from nltk import tokenize
 
-nltk.download('punkt')
 app = Flask(__name__)
 summarizer = pipeline("summarization", model="facebook/bart-large-cnn")
 
